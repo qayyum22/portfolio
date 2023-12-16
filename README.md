@@ -17,7 +17,8 @@
 
 <a href="https://github.com/qayyum22/portfolio"><img src="https://sloc.xyz/github/qayyum22/portfolio" alt="Total lines"></a>
 <a href="https://github.com/qayyum22/portfolio"><img src="https://visitor-badge.laobi.icu/badge?page_id=qayyum22/qayyum22.github.io/portfolio" alt="Number of Visitors"></a>
-<a href="https://github.com/qayyum22/portfolio/stargazers"><img src="https://img.shields.io/github/stars/qayyum22/portfolio/" alt="github stars"></a>
+<a href="https://github.com/qayyum22/portfolio/stargazers"><img src="https://img.shields.io/github/stars/qayyum22/portfolio" alt="github stars"></a>
+
 <a href="https://github.com/qayyum22/portfolio/network/members"><img src="https://img.shields.io/github/forks/qayyum22/portfolio" alt="github forks"></a>
 <a href="https://qayyum22.github.io/portfolio/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
 <a href="https://www.linkedin.com/in/mohammed-abdul-qayyum-siddiqui-670a88a4/"><img src="https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg" alt="linkedin"></a>
