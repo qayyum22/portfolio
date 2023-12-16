@@ -15,8 +15,8 @@
 
 <br/>
 
-<a href="https://github.com/qayyum22/qayyum22.github.io/portfolio"><img src="https://sloc.xyz/github/qayyum22/qayyum22.github.io/portfolio" alt="Total lines"></a>
-<a href="https://github.com/qayyum22/qayyum22.github.io/portfolio"><img src="https://visitor-badge.laobi.icu/badge?page_id=qayyum22/qayyum22.github.io/portfolio" alt="Number of Visitors"></a>
+<a href="https://github.com/qayyum22/portfolio"><img src="https://sloc.xyz/github/qayyum22/portfolio" alt="Total lines"></a>
+<a href="https://github.com/qayyum22/portfolio"><img src="https://visitor-badge.laobi.icu/badge?page_id=qayyum22/qayyum22.github.io/portfolio" alt="Number of Visitors"></a>
 <a href="https://github.com/qayyum22/qayyum22.github.io/portfolio/stargazers"><img src="https://img.shields.io/github/stars/qayyum22/qayyum22.github.io/portfolio/" alt="github stars"></a>
 <a href="https://github.com/qayyum22/qayyum22.github.io/portfolio/network/members"><img src="https://img.shields.io/github/forks/qayyum22/qayyum22.github.io/portfolio" alt="github forks"></a>
 <a href="https://qayyum22.github.io/portfolio/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
