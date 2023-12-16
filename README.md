@@ -6,9 +6,11 @@
   <a href="https://qayyum22.github.io/portfolio">qayyum22.github.io/portfolio</a>
 </h2>
 
+
 <div align="center">
   <a href="https://qayyum22.github.io/portfolio">
-    <img alt="Mockup" src="mock up image url" />
+    <img alt="Mockup" src="![Untitled design](https://github.com/qayyum22/portfolio/assets/54232882/570322b9-730f-4935-b4c8-b6b7f46ad674)
+" />
   </a>
 </div>
 
