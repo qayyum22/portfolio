@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://qayyum22.github.io/portfolio">
-    <img alt="Mockup" src="https://github.com/qayyum22/portfolio/assets/54232882/918db946-4ebd-4288-8d1a-28a6b8279425" />
+    <img alt="Mockup" src="https://github.com/qayyum22/portfolio/assets/54232882/82f7279a-639a-4df5-806c-cf4644fcd99a" />
   </a>
 </div>
 
